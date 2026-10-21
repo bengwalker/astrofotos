@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"9a13fe7fd4e6db35","type":"file","file":"db/media/BestOf2021/Milkyway_combi_2.jpg","x":-760,"y":-2920,"width":352,"height":1140},
+		{"id":"440db0d26b6e37d7","type":"file","file":"db/media/BestOf2024/IMG_2855_2.JPG","x":-240,"y":-2440,"width":682,"height":455},
+		{"id":"c2a72010f8b4b414","type":"file","file":"db/media/BestOf2021/Sofi2021.png","x":720,"y":-2350,"width":721,"height":191}
+	],
+	"edges":[]
+}

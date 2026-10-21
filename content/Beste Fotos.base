@@ -1,0 +1,70 @@
+properties:
+  note.Linearer Durchmesser:
+    displayName: Linearer Durchmesser in LJ
+  note.Aperture:
+    displayName: Blende
+  note.Alternative Bezeichnung:
+    displayName: aliases
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.ext == "md"
+        - file.folder == "db"
+    order:
+      - file.name
+      - Aufnahmedatum
+    image: note.file
+    cardSize: 310
+    imageAspectRatio: 0.6
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+    order:
+      - file.name
+      - Titel
+      - aliases
+      - Art
+      - Entfernung in LJ
+      - Linearer Durchmesser
+      - scheinbare Helligkeit in mag
+      - Winkeldurchmesser
+      - Brennweite (mm)
+      - Objektiv
+      - Aperture
+      - Gesamtbelichtungszeit (Sekunden)
+      - Software
+      - ISO
+      - Guiding
+      - Aufnahmedatum
+    sort:
+      - property: Brennweite (mm)
+        direction: DESC
+      - property: Gesamtbelichtungszeit (Sekunden)
+        direction: DESC
+      - property: Art
+        direction: ASC
+      - property: Winkeldurchmesser
+        direction: ASC
+      - property: Linearer Durchmesser
+        direction: ASC
+      - property: scheinbare Helligkeit in mag
+        direction: ASC
+      - property: Entfernung in LJ
+        direction: ASC
+      - property: Aperture
+        direction: DESC
+      - property: Alternative Bezeichnung
+        direction: DESC
+      - property: Alter
+        direction: DESC
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 191
+      note.Art: 98
+  - type: table
+    name: Sicht
