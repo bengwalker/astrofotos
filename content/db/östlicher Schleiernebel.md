@@ -1,7 +1,7 @@
 ---
 Titel: östlicher Schleiernebel
 Art: Planetarischer Nebel
-file: db/media/bestof2026/schleiernebel_dualband.jpg
+file: db/media/bestof2026/small/schleiernebel_dualband.jpg
 aliases:
   - C33
   - NGC6992

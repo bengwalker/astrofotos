@@ -1,5 +1,5 @@
 ---
 Titel: Mond
-file: db/media/bestof2021/moon_042021.png
+file: db/media/bestof2021/small/moon_042021.jpg
 ---
 ![[Moon_042021.png]]

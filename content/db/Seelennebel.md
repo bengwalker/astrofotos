@@ -1,7 +1,7 @@
 ---
 Titel: Seelennebel
 Art: offener Sternenhaufen
-file: db/media/bestof2026/seelennebel_20261020221238888.jpg
+file: db/media/bestof2026/small/seelennebel_20261020221238888.jpg
 aliases:
   - IC 1848
 Filter: DualBand

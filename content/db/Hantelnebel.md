@@ -2,7 +2,7 @@
 Art: Planetarischer Nebel
 Entfernung in LJ: 1300
 Alter: ca. 10.000 Jahre
-file: db/media/bestof2023/hantelnebel.JPG
+file: db/media/bestof2023/small/hantelnebel.jpg
 scheinbare Helligkeit in mag: 7.5
 Sonstiges: Dehnt sich mit einer Geschwindigkeit von circa 30 km/s aus.
 Kamera: Canon EOS 550Da

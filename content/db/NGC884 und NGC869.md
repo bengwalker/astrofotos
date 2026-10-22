@@ -1,7 +1,7 @@
 ---
 Titel: NGC884 und NGC869
 Art: Sternenhaufen
-file: db/media/bestof2024/ngc884ngc869.jpg
+file: db/media/bestof2024/small/ngc884ngc869.jpg
 ISO: 6400
 Kamera: Canon EOS 550Da
 Gesamtbelichtungszeit (Sekunden): 1470

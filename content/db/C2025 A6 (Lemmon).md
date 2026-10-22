@@ -1,7 +1,7 @@
 ---
 Titel: C/2025 A6
 Art: Komet
-file: db/media/bestof2025/lemmon.jpg
+file: db/media/bestof2025/small/lemmon.jpg
 aliases:
   - Lemmon
 ISO: 3200

@@ -7,6 +7,6 @@ Alter:
 Link:
 scheinbare Helligkeit in mag:
 Sonstiges:
-file: db/media/bestof2025/orion_2025.jpg
+file: db/media/bestof2025/small/orion_2025.jpg
 ---
 ![[Orion_2025.jpg]]

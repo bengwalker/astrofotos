@@ -1,6 +1,6 @@
 ---
 Titel: M8 und M20
-file: db/media/bestof2024/m20_m8_20241005.jpg
+file: db/media/bestof2024/small/m20_m8_20241005.jpg
 Filter: Rollei Astroklar
 Montierung: Minitrack LX2
 Einzelbilder: 34 x 13 Sek

@@ -1,7 +1,7 @@
 ---
 Titel: M65 und M66
 Art: Galaxie
-file: db/media/bestof2024/m66_m65.jpg
+file: db/media/bestof2024/small/m66_m65.jpg
 Kamera: Canon EOS 550Da
 Einzelbilder: 26*60s + 1 dark
 Gesamtbelichtungszeit (Sekunden): 1560

@@ -9,6 +9,6 @@ Brennweite (mm): 32
 Aperture: 5.6
 Software:
   - gimp
-file: db/media/bestof2014/crw_7119_2025.jpg
+file: db/media/bestof2014/small/crw_7119_2025.jpg
 ---
 ![[CRW_7119_2025.jpg]]

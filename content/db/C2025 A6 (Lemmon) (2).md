@@ -1,7 +1,7 @@
 ---
 Titel: C/2025 A6
 Art: Komet
-file: db/media/bestof2025/lemmon_sequator_siril.jpg
+file: db/media/bestof2025/small/lemmon_sequator_siril.jpg
 aliases:
   - Lemmon
 ISO: 6400

@@ -1,7 +1,7 @@
 ---
 Titel: Saturn
 Art: Planet
-file: db/media/bestof2024/saturn_titan_2.jpg
+file: db/media/bestof2024/small/saturn_titan_2.jpg
 Software:
   - gimp
 Aufnahmedatum: 2024-10-27T20:29:00

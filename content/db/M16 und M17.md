@@ -1,6 +1,6 @@
 ---
 Titel: M16 und M17
-file: db/media/bestof2024/m16_m17.jpg
+file: db/media/bestof2024/small/m16_m17.jpg
 ISO: 3200
 Kamera: Canon EOS 550Da
 Aperture: 2.8

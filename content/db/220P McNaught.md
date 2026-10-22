@@ -1,7 +1,7 @@
 ---
 Titel: 220P McNaught
 Art: Komet
-file: db/media/bestof2026/220p_mcnaught_siril.jpg
+file: db/media/bestof2026/small/220p_mcnaught_siril.jpg
 aliases:
 ISO: 3200
 Aperture: 6.3
