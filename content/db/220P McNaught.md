@@ -19,6 +19,6 @@ Filter: IR-Sperrfilter
 ---
 
 
-![[220P_McNaught_siril.jpg]]
+![[media/bestof2026/220P_McNaught_siril.jpg]]
 
-![[220P_McNaught_siril_combined.jpg]]
+![[media/bestof2026/220P_McNaught_siril_combined.jpg]]

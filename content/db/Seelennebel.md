@@ -18,4 +18,4 @@ Software:
   - StellarStudio
 ---
 
-![[Seelennebel_20261020221238888.jpg]]
+![[media/bestof2026/Seelennebel_20261020221238888.jpg]]

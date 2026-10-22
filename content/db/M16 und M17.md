@@ -13,4 +13,4 @@ Einzelbilder: 115 x 6Sec
 Gesamtbelichtungszeit (Sekunden): 690
 Aufnahmedatum: 2024-07-07T01:30:00
 ---
-![[M16_M17.jpg]]
+![[media/bestof2024/M16_M17.jpg]]

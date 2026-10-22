@@ -18,4 +18,4 @@ Brennweite (mm): 135
 ---
 
 
-![[Lemmon.jpg]]
+![[media/bestof2025/Lemmon.jpg]]

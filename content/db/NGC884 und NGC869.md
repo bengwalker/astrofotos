@@ -14,4 +14,4 @@ Aufnahmedatum: 2024-10-25T21:18:00
 Objektiv: Spiegeltele Walimex Pro
 ---
 
-![[NGC884NGC869.jpg]]
+![[media/bestof2024/NGC884NGC869.jpg]]

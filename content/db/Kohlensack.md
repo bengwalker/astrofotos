@@ -11,4 +11,4 @@ Software:
   - gimp
 file: db/media/bestof2014/small/crw_7119_2025.jpg
 ---
-![[CRW_7119_2025.jpg]]
+![[media/bestof2014/CRW_7119_2025.jpg]]

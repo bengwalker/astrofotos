@@ -13,4 +13,4 @@ Aufnahmedatum: 2024-05-01T23:00:00
 Objektiv: Skywatcher Maksutov 127/1500
 ---
 
-![[M66_M65.jpg]]
+![[media/bestof2024/M66_M65.jpg]]

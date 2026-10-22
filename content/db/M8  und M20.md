@@ -11,4 +11,4 @@ Brennweite (mm): 300
 Aufnahmedatum: 2024-10-05T20:40:00
 Alternative Bezeichnung:
 ---
-![[M20_M8_20241005.jpg]] 
+![[media/bestof2024/M20_M8_20241005.jpg]] 

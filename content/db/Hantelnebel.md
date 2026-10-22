@@ -19,4 +19,4 @@ Objektiv: Skywatcher Maksutov 127/1500
 ---
 
 
-![[Hantelnebel.JPG]]
+![[media/bestof2023/Hantelnebel.JPG]]

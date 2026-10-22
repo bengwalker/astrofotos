@@ -17,4 +17,4 @@ gain: "60"
 Brennweite 35mm Äquivalent: "1016"
 ---
 
-![[Schleiernebel_dualband.jpg]]
+![[media/bestof2026/Schleiernebel_dualband.jpg]]

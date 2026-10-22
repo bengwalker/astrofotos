@@ -19,4 +19,4 @@ Gesamtbelichtungszeit (Sekunden): 66
 ---
 Der Komet stand direkt über einer Straßenlaterne 
 
-![[Lemmon_sequator_siril.jpg]]
+![[media/bestof2025/Lemmon_sequator_siril.jpg]]

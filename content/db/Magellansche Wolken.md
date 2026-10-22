@@ -12,4 +12,4 @@ Linearer Durchmesser: 25100
 Sonstiges: Angaben beziehen sich auf die große Magellansche Wolke
 scheinbare Helligkeit in mag: 0.9
 ---
-![[Magellan.jpg]]
+![[media/bestof2007/Magellan.jpg]]

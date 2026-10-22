@@ -9,4 +9,4 @@ scheinbare Helligkeit in mag:
 Sonstiges:
 file: db/media/bestof2025/small/orion_2025.jpg
 ---
-![[Orion_2025.jpg]]
+![[media/bestof2025/Orion_2025.jpg]]

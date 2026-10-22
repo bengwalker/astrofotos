@@ -11,4 +11,4 @@ Brennweite (mm): 1300
 Objektiv: '**153mm/1300mm Reflektor mit der Bezeichnung "Revue"**'
 Art: Ereignis
 ---
-![[IMG_9190_neu.jpg]]
+![[media/bestof2016/IMG_9190_neu.jpg]]

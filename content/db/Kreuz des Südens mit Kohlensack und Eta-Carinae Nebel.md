@@ -11,4 +11,4 @@ aliases:
   - NGC3372
 file: db/media/bestof2007/small/gescanntesdokument_1_3.jpg
 ---
-![[GescanntesDokument_1_3.jpg]]
+![[media/bestof2007/GescanntesDokument_1_3.jpg]]
