@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: de-DE
-  baseUrl: localhost
+  baseUrl: bengwalker.github.io/astrofotos
   ignorePatterns:
     - private
     - templates

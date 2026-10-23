@@ -10,6 +10,3 @@ title: Astrofotografie
 
 # Zu meinen Bildern
 ![[Beste Fotos.base]]
-
-# Zu meinen Plänen
-![[Astro-Beobachtungen]]
