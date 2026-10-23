@@ -22,7 +22,7 @@ Leider hatte ich Probleme die mittels Adapter angebrachten M42-Objektive zu foku
 Mindestens von 2008 bis 2016 war ich bereits Mitglied in der [VdS](https:/www.vds-astro.de). 2008 habe ich auch einen kleinen Artikel im VdS-Journal Nr. 27 veröffentlicht, in dem ich meine Erfahrungen zur Astrofotografie während eines Aufenthaltes in Südafrika geschildert habe.
 Diesen habe ich damals noch auf 3,5"-Disketten gespeichert und per Post zur Redaktion geschickt.
 
-![|700](media/BestOf2016/IMG_9190_neu.jpg)
+![](media/BestOf2016/small/IMG_9190_neu.jpg)
 *9.5.2016: Merkurtransit aufgenommen in Osnabrück mit Canon EOS 100D 1/125 Sek auf ISO200 durch den 153mm Refraktor.*
 
 
@@ -31,7 +31,7 @@ Bei jeder Beobachtung musste ich es aufwändig ins Auto laden und anschließend 
 Entsprechend selten habe ich Beobachtungen durchgeführt (wie schon erwähnt. Ich bin da einfach zu bequem). Zu dieser Zeit habe ich dann auch meine VdS Mitgliedschaft beendet.
 Das Auftauchen des überraschend hellen Kometen Neowise im Jahr 2020 entfachte mein Interesse an der Astronomie und Astrofotografie schließlich erneut.
 
-![|500](Neowise_2020.jpg)
+![](small/Neowise_2020.jpg)
 *13.7.2020 - 2:52Uhr: Komet Neowise mit Canon EOS 100D 3,2 Sek auf ISO 1600 mit 300mm Objektiv bei F/5,6*
 
 Ich verkaufte das sperrige, selten genutzte und angestaubte 153mm Teleskop und kaufte stattdessen ein kompaktes **Skywatcher Maksutov 102mm auf einer AZ-Goto Montierung**. Dieses konnte ich bequem in einen Rucksack transportieren, und so jeder Zeit mit dem Fahrrad ins Grüne fahren. Die Montierung ließ sich mit wenigen Handgriffen aufbauen.
@@ -55,3 +55,6 @@ Eine Auswahl meiner Fotos stelle ich auf meinem [Mastodon-Account](https://muens
 
 In der Zukunft möchte ich zunächst einmal mehr Erfahrung mit meiner Ausrüstung sammeln, und auch noch längere Belichtungsreihen durchführen.
 Da ich beruflich mit Softwareentwicklung zu tun habe, hätte ich auch Interesse mich eingehender mit der Bildbearbeitung zu beschäftigen und selber einige Tools zu entwickeln.
+
+---
+Vor kurzem habe ich mir ein Smart-Telescope (Dwarf mini) gekaut. Ich bin nach den ersten Versuchen sehr beeindruckt. Es gelingen auf Anhieb bessere Bilder als ich es mit aufwändigem Equipment bisher hinbekommen habe. Allerdings fühlt sich das ganze nicht mehr wirklich so an als hätte ich selber diese Fotos gemacht. Eher so als ob man sich Bilder von Fremden im Internet anschaut. Ich stelle das Gerät Abends in den Garten, gebe ein was ich gerne aufnehmen möchte und später bekomme ich ein fertiges Bild. In der Zwischenzeit kann ich dem Live-Stacking von der Couch zusehen.
