@@ -5,17 +5,18 @@ file: db/media/bestof2026/small/seelennebel_20261020221238888.jpg
 aliases:
   - IC 1848
 Filter: DualBand
-Einzelbilder:
-Gesamtbelichtungszeit (Sekunden):
+Einzelbilder: 34 * 90 Sec
+Gesamtbelichtungszeit (Sekunden): 3060
 Kamera: Dwarf mini
 Aperture: 5
-ISO:
+ISO: 398
 Brennweite (mm): 150
 Aufnahmedatum: 2026-10-20T20:20:00
-gain:
+gain: "40"
 Brennweite 35mm Äquivalent: "1016"
 Software:
   - StellarStudio
+Montierung: eq
 ---
 
 ![[media/bestof2026/Seelennebel_20261020221238888.jpg]]
